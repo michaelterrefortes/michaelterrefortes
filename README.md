@@ -1,4 +1,14 @@
-## Hi there 👋
+## Michael Terrefortes Rosado
+
+Software Engineer and Computer Science graduate with a B.S. and M.S. from the University of Puerto Rico, Rio Piedras Campus, specializing in software development and data-driven systems. Experienced in full-stack development, and applied research in biostatistics and public health.
+
+## Stacks and Technologies
+
+JavaScript · React · Node.js · PostgreSQL · Python · Java · HTML · CSS · Tailwind
+
+## Information
+
+[Personal Page](https://michaelterrefortes.github.io/) [michaelterrefortes@gmail.com](michaelterrefortes@gmail.com) [LinkedIn](https://www.linkedin.com/in/michael-h-terrefortes-rosado/) 
 
 <!--
 **michaelterrefortes/michaelterrefortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

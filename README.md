@@ -8,7 +8,7 @@ JavaScript · React · Node.js · PostgreSQL · Python · Java · HTML · CSS ·
 
 ## Information
 
-[Personal Page](https://michaelterrefortes.github.io/) | [michaelterrefortes@gmail.com](mailto:michaelterrefortes@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michael-h-terrefortes-rosado/)
+[Personal Page](https://michaelterrefortes.com/) | [michaelterrefortes@gmail.com](mailto:michaelterrefortes@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michael-h-terrefortes-rosado/)
 
 <!--
 **michaelterrefortes/michaelterrefortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

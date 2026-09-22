@@ -14,7 +14,7 @@ I enjoy working at the intersection of software engineering and data, whether bu
 
 **Data & Computing:** Python · C · SQL · PostgreSQL · Pandas · NumPy · Machine Learning · Data Visualization · High-Performance Computing
 
-**Areas:** Software Engineering · Data Science · Biostatistics · Public Health · Computational Biology
+**Areas:** Software Engineering · Data Science · Biostatistics · Public Health
 
 ## Information
 
